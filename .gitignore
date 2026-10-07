@@ -1,0 +1,10 @@
+.DS_Store
+*.plugin
+__pycache__/
+*.pyc
+.venv/
+*.zip
+# personal data never belongs here
+*.csv
+*.docx
+*.pdf

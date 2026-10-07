@@ -1,0 +1,14 @@
+{
+  "name": "job-search-autopilot",
+  "description": "Cloud-based job search plugins for Claude: CVs, cover letters, vacancy search, applications and reply tracking, all stored in your own Google Drive.",
+  "owner": {
+    "name": "Vitalii Yanchuk"
+  },
+  "plugins": [
+    {
+      "name": "job-search-autopilot",
+      "source": "./plugins/job-search-autopilot",
+      "description": "Reserved Google Drive workspace for CVs, cover letters and an application tracker, plus skills that find vacancies, tailor CVs and letters, apply in review or auto mode, and track replies from Gmail."
+    }
+  ]
+}
