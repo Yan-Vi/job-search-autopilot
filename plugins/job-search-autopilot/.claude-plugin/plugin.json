@@ -1,6 +1,6 @@
 {
   "name": "job-search-autopilot",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Cloud-based job search: a reserved Google Drive workspace for CVs, cover letters and an application tracker, plus skills that find vacancies, tailor CVs and letters, apply in review or auto mode, and track replies from Gmail.",
   "author": { "name": "Vitalii Yanchuk" },
   "keywords": ["job search", "cv", "resume", "cover letter", "google drive", "applications"]

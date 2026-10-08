@@ -2,7 +2,7 @@
 name: setup-autopilot
 description: "This skill should be used when the user says 'setup autopilot', 'set up autopilot', 'check my connections', 'what do I need to connect', 'is everything connected', 'prepare job-search-autopilot', or the first time anyone uses the job-search-autopilot plugin. It also runs when another job-search-autopilot skill finds a required tool missing. It checks every connection the plugin needs (Google Drive, Docs, Sheets, Gmail, Claude in Chrome and sign-ins to job boards), offers to connect what is missing, gives the Claude in Chrome install link when the extension is not set up, and hands over to job-search-setup."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # Setup Autopilot

@@ -2,7 +2,7 @@
 name: vacancy-scout
 description: "This skill should be used when the user asks to 'find vacancies', 'scan job boards', 'look for new jobs', 'what's new on DOU/Djinni/LinkedIn', 'refresh the vacancy list', or when daily-autopilot runs. It collects listings from the boards in Settings, scores fit against Profile, removes duplicates and blocked companies, and writes results to the Vacancies tab of the Tracker in the 'JobApplications_claude' Drive workspace."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # Vacancy Scout

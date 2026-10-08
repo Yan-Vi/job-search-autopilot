@@ -2,7 +2,7 @@
 name: cv-builder
 description: "This skill should be used when the user asks to 'build my CV', 'update my resume', 'tailor my CV for this job', 'make a CV for a company', 'export my CV to PDF', 'write a cover letter document', or when apply-assistant needs a tailored CV or PDF. It builds CVs and cover letters as formatted Google Docs in the 'JobApplications_claude' Drive workspace from the Profile doc, and exports them to PDF."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # CV Builder

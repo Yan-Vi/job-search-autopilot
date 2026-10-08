@@ -2,7 +2,7 @@
 name: reply-tracker
 description: "This skill should be used when the user asks to 'check replies', 'update application statuses', 'did anyone answer', 'track my applications', 'show my job search stats', or when daily-autopilot reaches the tracking step. It reads recruiter emails in Gmail, matches them to rows in the Applications tab of the Tracker in the 'JobApplications_claude' Drive workspace, updates Result, and reports pipeline stats."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # Reply Tracker

@@ -2,7 +2,7 @@
 name: daily-autopilot
 description: "This skill should be used when a scheduled task says 'run the job-search-autopilot daily-autopilot skill', or when the user asks to 'run my job search', 'do today's applications', 'run the autopilot', 'run the daily job search'. It runs the full cycle unattended on the 'JobApplications_claude' Drive workspace: track replies, scout vacancies, draft applications, submit in auto mode or prepare a review doc in review mode, log the run, and send a summary."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # Daily Autopilot
@@ -16,6 +16,8 @@ Locate `JobApplications_claude` and read Settings (see `../job-search-setup/refe
 ## Step 1: Track replies
 
 Run the reply-tracker skill. Keep its "action needed" list for the summary.
+
+If `linkedin` is in `boards`, also run linkedin-assistant in its daily-autopilot mode (read LinkedIn messages, update statuses, put reply drafts in the review doc; never send).
 
 ## Step 2: Scout
 

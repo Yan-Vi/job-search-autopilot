@@ -11,6 +11,7 @@ A cloud-based job search assistant. Everything lives in one reserved Google Driv
 | cv-builder | "Build my CV", "Tailor my CV for this job" | Builds a formatted Google Doc CV from your Profile, tailored versions per vacancy, PDF exports. |
 | vacancy-scout | "Find new vacancies" | Scans your boards, scores fit 1 to 5, removes duplicates and blocked companies, fills the Vacancies tab. |
 | apply-assistant | "Apply to 10 vacancies", "Apply to this job" | Writes letters and recruiter answers in your style, makes a review doc, submits after approval or automatically in auto mode, logs every send. |
+| linkedin-assistant | "Check LinkedIn messages", "Easy Apply to this job", "Find the recruiter", "Review my LinkedIn profile" | Easy Apply with your Profile and Legend, drafts replies to recruiter messages and updates statuses, finds recruiters and hiring managers and drafts connection notes, compares your LinkedIn profile with Profile and suggests edits. Messages, connection requests and profile edits always wait for your ok. |
 | reply-tracker | "Check replies" | Reads recruiter emails in Gmail and updates each application's status, checks your calendar for proposed interview slots and adds confirmed interviews after you approve. Shows pipeline stats. |
 | daily-autopilot | runs on a schedule | Track replies, scout, draft, submit or prepare for review, log the run, send you a summary. |
 

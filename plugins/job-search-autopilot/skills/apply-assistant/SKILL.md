@@ -2,7 +2,7 @@
 name: apply-assistant
 description: "This skill should be used when the user asks to 'apply to this job', 'apply to N vacancies', 'prepare applications', 'write a cover letter for this vacancy', 'answer recruiter questions', 'bulk apply', 'reply to the recruiter', or when daily-autopilot reaches the apply step. It writes vacancy-specific letters and recruiter answers from Profile, Legend and Writing Style, builds a review doc, submits in review mode (after approval) or auto mode (within guardrails), and logs every submission to the Tracker in the 'JobApplications_claude' Drive workspace."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # Apply Assistant

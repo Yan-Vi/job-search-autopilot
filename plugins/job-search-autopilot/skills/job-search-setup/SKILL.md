@@ -2,7 +2,7 @@
 name: job-search-setup
 description: "This skill should be used when the user says 'set up my job search', 'create my job search folder', 'set up job-search-autopilot', 'import my CV', 'move my applications to Drive', or when any other job-search-autopilot skill cannot find the 'JobApplications_claude' folder in Google Drive. It creates the reserved Google Drive workspace with its pre-baked structure, imports existing CVs, letters and application logs, and optionally schedules the daily autopilot."
 metadata:
-  version: "0.4.1"
+  version: "0.5.0"
 ---
 
 # Job Search Setup
